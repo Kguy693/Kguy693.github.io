@@ -1,2 +1,46 @@
-# ELAPROJECT12-2019
-Repository for ELA project for 12-2019
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Home</title> 
+    <style>
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover {
+          background-color: #111;
+        }
+        </style>
+</head>
+<body style="font-family:Arial;background-image: url(World_Map.jpg);font-style: bold;">  </body>
+    
+    <h1>Would Make YOU Care About the Gender Pay Gap in the Workplace?</h1>
+    <h1>Project by Kunal Toomu</h1>
+    <ul>
+      <li><a href="./ELAwebsite12-2019.html">Home</a></li>
+      <li><a href="./Facts.html">Facts</a></li>
+      <li><a href="./Stories.html">Stories</a></li>
+      <li><a href="./Statistics.html">Statistics</a></li>
+      <li><a href="./Images.html">Images</a></li>
+      <li><a href="./works_cited.html">Works Cited</a></li>
+      <li><a>What would make YOU care aobut the gender pay gap? - Project by Kunal Toomu</a></li>
+      
+    </ul>
+</body>
+</html>
